@@ -45,6 +45,16 @@ npm run dev
 App will run locally on: http://localhost:5173
 
 🧠 How I Used AI Tools
+🤖 How I Used AI Tools
+To enhance productivity and ensure quality, I used the following tools:
+
+💜 Lovable AI: for managing and presenting the final version of the task visually.
+
+💡 Grok (Cursor): to scaffold components (DoctorCard, Modal, AppointmentList), generate mock data, review accessibility, and generate test cases.
+
+🧑‍💻 VS Code: as my main IDE for development and live previews.
+
+
 I used Cursor to:
 
 Scaffold components (DoctorCard, Modal, AppointmentList)
@@ -82,3 +92,4 @@ Backend integration via API
 
 👤 Author
 Abdelaziz Mostafa Abdelaziz
+```
